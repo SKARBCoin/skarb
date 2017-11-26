@@ -1,0 +1,2 @@
+# skarb
+SKARB Coin
